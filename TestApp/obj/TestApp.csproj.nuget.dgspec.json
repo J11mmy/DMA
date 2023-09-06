@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Aptech\\.NET2\\Buoi1\\TestApp\\TestApp.csproj": {}
+    "D:\\Aptech\\.NET2\\DMA\\TestApp\\TestApp.csproj": {}
   },
   "projects": {
-    "D:\\Aptech\\.NET2\\Buoi1\\TestApp\\TestApp.csproj": {
+    "D:\\Aptech\\.NET2\\DMA\\TestApp\\TestApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Aptech\\.NET2\\Buoi1\\TestApp\\TestApp.csproj",
+        "projectUniqueName": "D:\\Aptech\\.NET2\\DMA\\TestApp\\TestApp.csproj",
         "projectName": "TestApp",
-        "projectPath": "D:\\Aptech\\.NET2\\Buoi1\\TestApp\\TestApp.csproj",
+        "projectPath": "D:\\Aptech\\.NET2\\DMA\\TestApp\\TestApp.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Aptech\\.NET2\\Buoi1\\TestApp\\obj\\",
+        "outputPath": "D:\\Aptech\\.NET2\\DMA\\TestApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
