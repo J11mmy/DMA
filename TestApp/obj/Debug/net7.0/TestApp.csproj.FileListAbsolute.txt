@@ -1,7 +1,0 @@
-D:\Aptech\.NET2\Buoi1\TestApp\obj\Debug\net7.0\TestApp.csproj.AssemblyReference.cache
-D:\Aptech\.NET2\Buoi1\TestApp\obj\Debug\net7.0\TestApp.GeneratedMSBuildEditorConfig.editorconfig
-D:\Aptech\.NET2\Buoi1\TestApp\obj\Debug\net7.0\TestApp.AssemblyInfoInputs.cache
-D:\Aptech\.NET2\Buoi1\TestApp\obj\Debug\net7.0\TestApp.AssemblyInfo.cs
-D:\Aptech\.NET2\Buoi1\TestApp\obj\Debug\net7.0\TestApp.csproj.CoreCompileInputs.cache
-D:\Aptech\.NET2\Buoi1\TestApp\obj\Debug\net7.0\TestApp.MvcApplicationPartsAssemblyInfo.cs
-D:\Aptech\.NET2\Buoi1\TestApp\obj\Debug\net7.0\TestApp.MvcApplicationPartsAssemblyInfo.cache

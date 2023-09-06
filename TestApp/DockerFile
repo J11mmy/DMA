@@ -1,4 +1,4 @@
-﻿# Sử dụng hình ảnh ASP.NET Core SDK để xây dựng ứng dụng
+# Sử dụng hình ảnh ASP.NET Core SDK để xây dựng ứng dụng
 FROM mcr.microsoft.com/dotnet/sdk:7.0 AS build-env
 WORKDIR /app
 
